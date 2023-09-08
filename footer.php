@@ -1,3 +1,18 @@
+  
+           </div>
+          <!-- / Content -->
+
+       
+        </div>
+        <!-- Content wrapper -->
+      </div>
+      <!-- / Layout page -->
+    </div>
+
+ 
+
+  </div>
+  <!-- / Layout wrapper -->
   <!-- Core JS -->
   <!-- build:js assets/vendor/js/core.js -->
   <script src="./assets/vendor/libs/jquery/jquery.js"></script>
