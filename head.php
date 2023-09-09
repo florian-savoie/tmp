@@ -59,7 +59,7 @@
 
       <aside id="layout-menu" class="layout-menu menu-vertical menu bg-menu-theme">
         <div class="app-brand demo">
-          <a href="index.html" class="app-brand-link">
+          <a href="/tmp/index.php" class="app-brand-link">
             <span class="app-brand-logo demo">
               <span style="color: var(--bs-primary)">
                 <svg width="268" height="150" viewBox="0 0 38 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -151,6 +151,18 @@
             <a href="app-kanban.html" class="menu-link">
               <i class="menu-icon tf-icons mdi mdi-file-document-outline"></i>
               <div >Composant</div>
+            </a>
+          </li>
+          <li class="menu-item">
+            <a href="app-kanban.html" class="menu-link">
+              <img src="./img/ses.ico" alt="" style="height: 24px;width: 24px;;">
+              <div > Class SES</div>
+            </a>
+          </li>
+          <li class="menu-item">
+            <a href="/tmp/functionpui.php" class="menu-link">
+              <img src="./img/pui.png" alt="" style="height: 30px;width: 30px;;">
+              <div > Fonction PUI</div>
             </a>
           </li>
        
