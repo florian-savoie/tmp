@@ -59,7 +59,7 @@
 
       <aside id="layout-menu" class="layout-menu menu-vertical menu bg-menu-theme">
         <div class="app-brand demo">
-          <a href="/tmp/index.php" class="app-brand-link">
+          <a href="/tmp/index.php" target="_blank" class="app-brand-link">
             <span class="app-brand-logo demo">
               <span style="color: var(--bs-primary)">
                 <svg width="268" height="150" viewBox="0 0 38 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -232,6 +232,14 @@
                 <a class="nav-link btn btn-text-secondary rounded-pill btn-icon style-switcher-toggle hide-arrow"
                   href="javascript:void(0);">
                   <i class="mdi mdi-24px"></i>
+                </a>
+              </li>
+              <!--/ Style Switcher -->
+              <!-- Style Switcher -->
+              <li class="nav-item me-1 me-xl-0">
+                <a class="nav-link btn btn-text-secondary rounded-pill btn-icon "
+                  href="/tmp/createpage.php">
+                  <img width="30" height="30" src="https://img.icons8.com/fluency/48/create-new.png" alt="create-new"/>
                 </a>
               </li>
               <!--/ Style Switcher -->
